@@ -1,12 +1,12 @@
-title: Blog Bibliotheks- und Archivinformatik
-author: Felix
-email: felix.lohmeier@fhgr.ch
+title: Coders.Bay Diareey
+author: Nerdbert
+email: norbert_fruehwirth@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+  Diareey for Coders.Bay to check what we have done until now and what they "lessons learned" are!!
 
 # social links
-twitter_username: felixlohmeier # DO NOT include the @ character, or else the build will fail!
-github_username:  felixlohmeier # DO NOT include the @ character, or else the build will fail!
+linked_in: https://bit.ly/3zBunSK
+github_username:  kodibert
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-minimal
