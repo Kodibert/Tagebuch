@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Coders.Bay.Dia_reey
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Hy Stephen my friend, I hope you like my diareey. If you need further informations do not hesitate to talk with me!! ;)
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Ey, Dude... That´s private**.
