@@ -16,6 +16,7 @@ Ey, Dude... That´s private**.
  Basics on html and css.
  
  First competence check done (I was a little bit afraid before because of don´t liking exam situations. --> It was not necessary. No pressure was given from the trainer side and it was a good technical discussion)
+ 
 ---
 ## Week 2
 Web Basics to advanced:
@@ -24,6 +25,7 @@ Web Basics to advanced:
 - little javascript
 
 Competence check; as mentioned above!
+
 ---
 ## Week 3
 Web advanced:
@@ -32,17 +34,20 @@ Web advanced:
 -Basics javascript
 -Pracical use
 Competence check; as mentioned above!
+
 ---
 ## Week 4
 Fun with Databases (Basics and ERM)
 
 Competence check; as mentioned above!
+
 ---
 ## Week 5
 Java Basics
 -Java modul 1
 - I took aproxx. the hole week for the basics which I had done before in the IT-Orientation because I wanted to assure to know the basics really good because I dont want to get "brainfucked" in later modules regarding this topic.
 Competence check; as mentioned above!
+
 ---
 ## Week 6
 Fun with Databases (SQL 1)
